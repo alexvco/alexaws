@@ -48,4 +48,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'paperclip'
-gem 'aws-sdk', '~> 2.5', '>= 2.5.10'
+gem 'aws-sdk'
